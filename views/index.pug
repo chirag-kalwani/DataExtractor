@@ -1,0 +1,203 @@
+doctype html
+head
+	meta(charset='UTF-8')
+	meta(name='viewport' content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0')
+	meta(http-equiv='X-UA-Compatible' content='ie=edge')
+	title Chirag
+	style
+		include ../static/style.css
+.container
+	form(action='/' method='post')
+		button(type='submit' class='btn' value='Submit') SmartPhones
+	form(action='/fetchdata' method='post')
+		button(type='submit' class='btn' value='Submit') FetchData
+	p "FetchData" button hit the twitter api and collect fresh data, storing it in a txt file and showing it in the below table, where as the 'Smartphone' button shows previously stored data in a txt file.
+.info
+	table
+		tr
+			th Name:
+			th Link:
+			th Category:
+			th Subcategory:
+			th FlipkartLink:
+			th Count:
+		tr
+			td= name1
+			td
+				a( target='_blank' href=`//${link1}`)= link1
+			td= category1
+			td= subcategory1
+			td
+				a(href=`https://www.flipkart.com/search?q=${name1}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count1
+		tr
+			td= name2
+			td
+				a( target='_blank' href=`//${link2}`)= link2
+			td= category2
+			td= subcategory2
+			td
+				a(href=`https://www.flipkart.com/search?q=${name2}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count2
+		tr
+			td= name3
+			td
+				a( target='_blank' href=`//${link3}`)= link3
+			td= category3
+			td= subcategory3
+			td
+				a(href=`https://www.flipkart.com/search?q=${name3}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count3
+		tr
+			td= name4
+			td
+				a( target='_blank' href=`//${link4}`)= link4
+			td= category4
+			td= subcategory4
+			td
+				a(href=`https://www.flipkart.com/search?q=${name4}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count4
+		tr
+			td= name5
+			td
+				a( target='_blank' href=`//${link5}`)= link5
+			td= category5
+			td= subcategory5
+			td
+				a(href=`https://www.flipkart.com/search?q=${name5}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count5
+		tr
+			td= name6
+			td
+				a( target='_blank' href=`//${link6}`)= link6
+			td= category6
+			td= subcategory6
+			td
+				a(href=`https://www.flipkart.com/search?q=${name6}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count6
+		tr
+			td= name7
+			td
+				a( target='_blank' href=`//${link7}`)= link7
+			td= category7
+			td= subcategory7
+			td
+				a(href=`https://www.flipkart.com/search?q=${name7}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count7
+		tr
+			td= name8
+			td
+				a( target='_blank' href=`//${link8}`)= link8
+			td= category8
+			td= subcategory8
+			td
+				a(href=`https://www.flipkart.com/search?q=${name8}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count8
+		tr
+			td= name9
+			td
+				a( target='_blank' href=`//${link9}`)= link9
+			td= category9
+			td= subcategory9
+			td
+				a(href=`https://www.flipkart.com/search?q=${name9}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count9
+		tr
+			td= name10
+			td
+				a( target='_blank' href=`//${link10}`)= link10
+			td= category10
+			td= subcategory10
+			td
+				a(href=`https://www.flipkart.com/search?q=${name10}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count10
+		tr
+			td= name11
+			td
+				a( target='_blank' href=`//${link11}`)= link11
+			td= category11
+			td= subcategory11
+			td
+				a(href=`https://www.flipkart.com/search?q=${name11}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count11
+		tr
+			td= name12
+			td
+				a( target='_blank' href=`//${link12}`)= link12
+			td= category12
+			td= subcategory12
+			td
+				a(href=`https://www.flipkart.com/search?q=${name12}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count12
+		tr
+			td= name13
+			td
+				a( target='_blank' href=`//${link13}`)= link13
+			td= category13
+			td= subcategory13
+			td
+				a(href=`https://www.flipkart.com/search?q=${name13}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count13
+		tr
+			td= name14
+			td
+				a( target='_blank' href=`//${link14}`)= link14
+			td= category14
+			td= subcategory14
+			td
+				a(href=`https://www.flipkart.com/search?q=${name14}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count14
+		tr
+			td= name15
+			td
+				a( target='_blank' href=`//${link15}`)= link15
+			td= category15
+			td= subcategory15
+			td
+				a(href=`https://www.flipkart.com/search?q=${name15}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count15
+		tr
+			td= name16
+			td
+				a( target='_blank' href=`//${link16}`)= link16
+			td= category16
+			td= subcategory16
+			td
+				a(href=`https://www.flipkart.com/search?q=${name16}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count16
+		tr
+			td= name17
+			td
+				a( target='_blank' href=`//${link17}`)= link17
+			td= category17
+			td= subcategory17
+			td
+				a(href=`https://www.flipkart.com/search?q=${name17}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count17
+		tr
+			td= name18
+			td
+				a( target='_blank' href=`//${link18}`)= link18
+			td= category18
+			td= subcategory18
+			td
+				a(href=`https://www.flipkart.com/search?q=${name18}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count18
+		tr
+			td= name19
+			td
+				a( target='_blank' href=`//${link19}`)= link19
+			td= category19
+			td= subcategory19
+			td
+				a(href=`https://www.flipkart.com/search?q=${name19}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count19
+		tr
+			td= name20
+			td
+				a( target='_blank' href=`//${link20}`)= link20
+			td= category20
+			td= subcategory20
+			td
+				a(href=`https://www.flipkart.com/search?q=${name20}&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off` target='_blank') #[img(alt="logo"  src="/static/logo.png")]
+			td= count20

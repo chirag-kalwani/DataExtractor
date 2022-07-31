@@ -1,0 +1,125 @@
+iPhone X : Electronics : Smartphone
+iPhone XR : Electronics : Smartphone
+iPhone XS : Electronics : Smartphone
+iPhone XS Max : Electronics : Smartphone
+iPhone 11 : Electronics : Smartphone
+iPhone11 Pro : Electronics : Smartphone
+iPhone11 Pro Max : Electronics : Smartphone
+iPhoneSE (2nd generation) : Electronics : Smartphone
+iPhone12 mini : Electronics : Smartphone
+iPhone12 : Electronics : Smartphone
+iPhone12 Pro : Electronics : Smartphone
+iPhone12 Pro Max : Electronics : Smartphone
+iPhone13 mini : Electronics : Smartphone
+iPhone13 : Electronics : Smartphone
+iPhone13 Pro : Electronics : Smartphone
+iPhone13 Pro Max : Electronics : Smartphone
+OnePlus 5 : Electronics : Smartphone
+OnePlus 5T : Electronics : Smartphone
+OnePlus 6 : Electronics : Smartphone
+OnePlus 6T : Electronics : Smartphone
+OnePlus 7 and OnePlus 7 Pro : Electronics : Smartphone
+OnePlus 7T and OnePlus 7T Pro : Electronics : Smartphone
+OnePlus 8 and OnePlus 8 Pro : Electronics : Smartphone
+OnePlus 8T : Electronics : Smartphone
+OnePlus 9 and 9 Pro : Electronics : Smartphone
+OnePlus 10 Pro 5G : Electronics : Smartphone
+Samsung Galaxy S3 : Electronics : Smartphone
+Samsung Galaxy S4 : Electronics : Smartphone
+Samsung Galaxy S5 : Electronics : Smartphone
+Samsung Galaxy S6 : Electronics : Smartphone
+Samsung Galaxy S6 edge : Electronics : Smartphone
+Samsung Galaxy S6 edge+ : Electronics : Smartphone
+Samsung Galaxy S9 : Electronics : Smartphone
+Samsung Galaxy S9+ : Electronics : Smartphone
+Samsung Galaxy S20 : Electronics : Smartphone
+Samsung Galaxy S20+ : Electronics : Smartphone
+Samsung Galaxy S20 Ultra : Electronics : Smartphone
+Xiaomi 12 Lite : Electronics : Smartphone
+Xiaomi 12 Pro (Dimensity) : Electronics : Smartphone
+Xiaomi 12S : Electronics : Smartphone
+Xiaomi 12S Pro : Electronics : Smartphone
+Xiaomi 12S Ultra : Electronics : Smartphone
+Xiaomi Poco X4 GT : Electronics : Smartphone
+Xiaomi Poco F4 : Electronics : Smartphone
+Xiaomi Redmi Note 11T Pro Plus : Electronics : Smartphone
+Xiaomi Redmi Note 11T Pro : Electronics : Smartphone
+Huawei P40 : Electronics : Smartphone
+Huawei Nova 7 : Electronics : Smartphone
+Huawei P40 lite 5G : Electronics : Smartphone
+Huawei Nova 7 SE 5G Youth : Electronics : Smartphone
+Huawei Mate 40 : Electronics : Smartphone
+Huawei Nova 8 SE : Electronics : Smartphone
+Huawei Nova 8 5G/Pro : Electronics : Smartphone
+Huawei Mate X2 : Electronics : Smartphone
+Huawei Nova 8 Pro 4G : Electronics : Smartphone
+Huawei Nova 8i : Electronics : Smartphone
+Moto G50 : Electronics : Smartphone
+Moto G100 : Electronics : Smartphone
+Moto G60 : Electronics : Smartphone
+Moto G40 Fusion : Electronics : Smartphone
+Moto G20 : Electronics : Smartphone
+Moto G Stylus 5G : Electronics : Smartphone
+Oppo Reno6 Lite : Electronics : Smartphone
+Oppo Reno7 : Electronics : Smartphone
+Oppo A76 : Electronics : Smartphone
+Oppo Find X5 : Electronics : Smartphone
+Oppo Find X5 Lite : Electronics : Smartphone
+Oppo Reno7 Z : Electronics : Smartphone
+Oppo A16e : Electronics : Smartphone
+Oppo A96 : Electronics : Smartphone
+Oppo K10 : Electronics : Smartphone
+vivo V23 5G : Electronics : Smartphone
+vivo iQOO 9 : Electronics : Smartphone
+vivo iQOO 9 SE : Electronics : Smartphone
+Vivo Y21a : Electronics : Smartphone
+Vivo Y21G : Electronics : Smartphone
+Vivo Y01 : Electronics : Smartphone
+Vivo X80 : Electronics : Smartphone
+Asus TUF Gaming F15 : Electronics : Laptop
+Asus TUF Gaming F17 : Electronics : Laptop
+Asus VivoBook 15 : Electronics : Laptop
+Asus VivoBook ultra : Electronics : Laptop
+Asus VivoBook S14 Oled : Electronics : Laptop
+Asus ROG Flow X13 : Electronics : Laptop
+Asus ROG strix G15 : Electronics : Laptop
+Asus Zenbook 13 : Electronics : Laptop
+Asus Celeron
+HP Pavilion x360 : Electronics : Laptop
+HP Pavilion Gaming : Electronics : Laptop
+HP 14s : Electronics : Laptop
+HP Omen : Electronics : Laptop
+APPLE Macbook Air M1 : Electronics : Laptop
+APPLE Macbook Pro M1 : Electronics : Laptop
+APPLE Macbook Air M2 : Electronics : Laptop
+APPLE Macbook Pro M2 : Electronics : Laptop
+Msi GF63 : Electronics : Laptop
+Msi Pulse GL66 : Electronics : Laptop
+Msi Katana GF66 : Electronics : Laptop
+Msi Delta 15 : Electronics : Laptop
+Msi GF65 : Electronics : Laptop
+Msi Modern 14 : Electronics : Laptop
+Apple iPad : Electronics : Tablet
+Apple iPad Pro : Electronics : Tablet
+Apple iPad mini : Electronics : Tablet
+Apple iPad air : Electronics : Tablet
+Samsung Galaxy tab S7+ : Electronics : Tablet
+Samsung Galaxy tab S6 : Electronics : Tablet
+Samsung Galaxy tab A8 : Electronics : Tablet
+Samsung Galaxy tab S7 FE : Electronics : Tablet
+Samsung Crystal 4K : Electronics : Telivision
+Samsung Crystal 4K Neo : Electronics : Telivision
+Samsung Crystal 4K Pro : Electronics : Telivision
+Samsung Neo QLED : Electronics : Telivision
+Samsung 7 : Electronics : Telivision
+Samsung Q60 : Electronics : Telivision
+Samsung Q70 : Electronics : Telivision
+Samsung Series 8 : Electronics : Telivision
+OnePlus Y1 : Electronics : Telivision
+OnePlus Y1s : Electronics : Telivision
+OnePlus U1s : Electronics : Telivision
+OnePlus Q1 : Electronics : Telivision
+Sony Bravia : Electronics : Telivision
+Sony Bravia Ultra Hd : Electronics : Telivision
+Sony X74 Bravia : Electronics : Telivision
+Sony X80 AJ : Electronics : Telivision
